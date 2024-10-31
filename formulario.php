@@ -25,6 +25,7 @@ $rs = $db->GetAll($sql);
                 <div class="card-header d-flex justify-content-center bg-primary text-white">
                     <h4>Formulario Dinamico</h4>
                     <h1>prueva de github</h1>
+                    <p>ramaJoel_Mendieta</p>
                 </div>
                 <div class="card-body">
                     <form action="" name="formu">
